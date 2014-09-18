@@ -2,4 +2,4 @@ Github basics
 =============
 
 
-[Google](http://wwww.gogle.gr)
+[Google](http://www.google.gr)
